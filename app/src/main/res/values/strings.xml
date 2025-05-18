@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">FitTrack</string>
+    <string name="welcome_title">Welcome to FitTrack</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="steps_today">Steps Today</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="active_minutes">Active Minutes</string>
+    <string name="workout_summary">Workout Summary</string>
+    <string name="workout_plans">Workout Plans</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="duration">Duration</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="progress_tracker">Progress Tracker</string>
+    <string name="view_chart">View Progress Chart</string>
+    <string name="goal">Goal</string>
+    <string name="achieved">Achieved</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="fitness_goals">Fitness Goals</string>
+    <string name="logout">Logout</string>
+
+</resources>

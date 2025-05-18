@@ -1,0 +1,13 @@
+<resources>
+
+    <color name="colorPrimary">#4C4C4C</color>
+    <color name="colorSecondary">#ABABAB</color>
+    <color name="colorAccent">#FFCC0000</color>
+    <color name="colorAccentDark">#CC990000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDisabled">#BDBDBD</color>
+    <color name="colorError">#E74C3C</color>
+    <color name="colorSuccess">#2ECC7100</color>
+
+</resources>
